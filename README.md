@@ -1,2 +1,2 @@
 # UpdateManager
-Revit BBI add-ins updates.
+Revit BBI updates manager.
