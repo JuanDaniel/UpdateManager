@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddinsVersion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateDate>15/05/2020 13:48:00</UpdateDate>
+  <Addins>
+    <Addin>
+      <Id>93768c10-f819-40b7-bd80-030ef355862f</Id>
+      <Name>ImportKeySchedule</Name>
+      <Version>1.0.0.9</Version>
+      <Install>\\10.72.221.15\aplicaciones\RevitAddins\INSTALL\ImportKeySchedule.msi</Install>
+    </Addin>
+    <Addin>
+      <Id>3fc9040b-1de7-4a7f-9f3a-25d9c51b7217</Id>
+      <Name>CenterGravity</Name>
+      <Version>1.0.0.4</Version>
+      <Install>\\10.72.221.15\aplicaciones\RevitAddins\INSTALL\CenterGravity.msi</Install>
+    </Addin>
+    <Addin>
+      <Id>61217e6a-7a87-4ed8-ae8e-ef74580812f8</Id>
+      <Name>ReplaceValueParameter</Name>
+      <Version>1.0.0.2</Version>
+      <Install>\\10.72.221.15\aplicaciones\RevitAddins\INSTALL\ReplaceValueParameter.msi</Install>
+    </Addin>
+    <Addin>
+      <Id>4ce6f415-8380-4c39-a178-03fd13ad3145</Id>
+      <Name>ExportTablaAreas</Name>
+      <Version>1.0.0.3</Version>
+      <Install>\\10.72.221.15\aplicaciones\RevitAddins\INSTALL\ExportTablaAreas.msi</Install>
+    </Addin>
+  </Addins>
+</AddinsVersion>

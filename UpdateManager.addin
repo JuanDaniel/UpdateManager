@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>UpdateManager</Name>
+		<Assembly>"C:\Users\jd.santana\Documents\Visual Studio 2017\Projects\UpdateManager\UpdateManager\bin\Debug\UpdateManager.dll"</Assembly>
+		<AddInId>2e12d6a4-6416-4486-98e8-be515a0c552a</AddInId>
+		<FullClassName>BBI.JD.CrtlApplication</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>JD</VendorDescription>
+	</AddIn>
+</RevitAddIns>
